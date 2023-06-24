@@ -1,0 +1,16 @@
+{
+  "name": "tugas-5---ui-automation",
+  "version": "1.0.0",
+  "description": "tugas-5",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "theresia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0",
+    "dot-env": "^0.0.1"
+  }
+}
