@@ -1,3 +1,6 @@
+## UI Testing
+Create an UI testing scenario from this URL https://kasirdemo.belajarqa.com/login 
+
 ## UI Automation Testing Using Cypress
 - Making test scenarios on UI testing
 - Search for the locator of a web element
